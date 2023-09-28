@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
  # -{file: "pub.html", title: "Publications"}
   - {file: "index.html", title: "Research"}
   - {file: "index.html", title: "CV"}
-  - {file: "pub.html", title: "Publications"}
+  - {file: "pub.md", title: "Publications"}
   - {title: "ResearchGate", url: "https://www.researchgate.net/profile/Xiaohan-Li-15"}
   - {title: "GoogleScholar", url: "https://scholar.google.com/citations?user=cPR5Lq4AAAAJ&hl=en&oi=ao"}
 
