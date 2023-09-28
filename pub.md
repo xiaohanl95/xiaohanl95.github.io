@@ -13,7 +13,7 @@ title: "Publications"
 
 **Li X.**, Bourg I.C. Microphysics of liquid water in sub-10 nm ultrafine aerosol particles. *Atmospheric Chemistry and Physics* 23, 2525-2556 (2023).
 
-Zhou, S., Zhang, D., Wang, H., & **Li, X.** A modified BET equation to investigate supercritical methane adsorption mechanisms in shale. *Marine and Petroleum Geology*, 105, 284-292 (2019).
+Zhou, S., Zhang, D., Wang, H., **Li, X.** A modified BET equation to investigate supercritical methane adsorption mechanisms in shale. *Marine and Petroleum Geology*, 105, 284-292 (2019).
 
 
 
