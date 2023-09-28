@@ -1,6 +1,11 @@
 ---
 layout: page
-title: "Blog"
+title: "About me"
 ---
 
 I am currently a CIMES postdoctoral research associate in the Department of Atmospheric and Oceanic Sciences at Princeton University. My research interests include environmental chemistry and microphysics, and I am particularly intrigued by how these fundamental sciences influence climate. Presently, my research aims to bridge the gap between the nanoscale foundation of aerosol microphysics and its representation in GFDL climate models.
+
+---
+layout: page
+title: "Education"
+---
