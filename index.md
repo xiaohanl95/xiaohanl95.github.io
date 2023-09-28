@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: defalut
 title: "About me"
 ---
 
