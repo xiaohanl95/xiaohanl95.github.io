@@ -12,7 +12,7 @@ I am currently a CIMES postdoctoral research associate in the Atmospheric and Oc
 
 ## Education
 - Ph.D., Civil and Environmental Engineering, Princeton University, 2018-2023. Advisor: [Ian C. Bourg](https://cee.princeton.edu/people/ian-bourg)
-- B.S., Energy and Resources Engineering, Peking University, 2014-2018
+- B.S., Energy and Resources Engineering, Peking University, 2014-2018. Research advisor: [Dongxiao Zhang](https://scholar.google.com/citations?user=HJdIx6QAAAAJ&hl=en)
 - B.S., Economics, Peking University, 2015-2018
 
 
