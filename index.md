@@ -7,11 +7,11 @@ I am currently a CIMES postdoctoral research associate in the Atmospheric and Oc
 
 
 ## Academic appointment & experience
-- Postdoc Research Associate, AOS Program, Princeton University, 2023. Host: Dr. Paul Ginoux
-- Visiting Scholar, Atmospheric Sciences, Texas A&M, 2023. Host: Prof. Yue Zhang
+- Postdoc Research Associate, AOS Program, Princeton University, 2023. Host: [Paul Ginoux](https://www.gfdl.noaa.gov/pag-homepage/) 
+- Visiting Scholar, Atmospheric Sciences, Texas A&M, 2023. Host: [Yue Zhang](https://atmo.tamu.edu/people/profiles/faculty/zhangyue.html) 
 
 ## Education
-- Ph.D., Civil and Environmental Engineering, Princeton University, 2018-2023
+- Ph.D., Civil and Environmental Engineering, Princeton University, 2018-2023. Advisor: [Ian C. Bourg](https://cee.princeton.edu/people/ian-bourg)
 - B.S., Energy and Resources Engineering, Peking University, 2014-2018
 - B.S., Economics, Peking University, 2015-2018
 
