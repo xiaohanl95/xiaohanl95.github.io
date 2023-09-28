@@ -3,7 +3,7 @@ layout: page
 title: "About me"
 ---
 
-I am currently a [CIMES Postdoctoral Research Associate](https://cimes.princeton.edu/) in the [Atmospheric and Oceanic Sciences Program](https://aos.princeton.edu/) at [Princeton University](https://www.princeton.edu/). I have a broad interest in [environmental chemistry](https://en.wikipedia.org/wiki/Environmental_chemistry), [geochemistry](https://en.wikipedia.org/wiki/Geochemistry) and [physical chemistry](https://en.wikipedia.org/wiki/Physical_chemistry), and I am particularly interested about how these fundamental sciences influence climate. Currently, my research aims to bridge the gap between the nanoscale foundation of aerosol microphysics and its representation in GFDL climate models.
+I am currently a [CIMES Postdoctoral Research Associate](https://cimes.princeton.edu/) in the [Atmospheric and Oceanic Sciences Program](https://aos.princeton.edu/) at [Princeton University](https://www.princeton.edu/). I have a broad interest in [environmental chemistry](https://en.wikipedia.org/wiki/Environmental_chemistry), [geochemistry](https://en.wikipedia.org/wiki/Geochemistry), and [physical chemistry](https://en.wikipedia.org/wiki/Physical_chemistry), and I am particularly interested about how these fundamental sciences influence climate. Currently, my research aims to bridge the gap between the nanoscale foundation of aerosol microphysics and its representation in GFDL climate models.
 
 
 ## Academic appointment & experience
