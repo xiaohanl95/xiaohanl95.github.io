@@ -16,9 +16,11 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
+  -{file: "Research", title: "Research"}
+  -{file: "index.html", title: "Publications"}
   - {file: "xli.pdf", title: "CV"}
-  - {file: "index.html", title: "ResearchGate", url: "https://www.researchgate.net/your-profile-link"}
-  - {file: "README.md",title: "ResearchGate", url: "https://www.researchgate.net/your-profile-link"}
+  - {title: "ResearchGate", url: "https://www.researchgate.net/your-profile-link"}
+  - {title: "GoogleScholar", url: "https://www.researchgate.net/your-profile-link"}
 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
