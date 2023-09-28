@@ -19,6 +19,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
  # -{file: "index.html", title: "Research"}
  # -{file: "index.html", title: "Publications"}
   - {file: "index.html", title: "CV"}
+  - {file: "index.html", title: "Publications"}
+  
   - {title: "ResearchGate", url: "https://www.researchgate.net/your-profile-link"}
   - {title: "GoogleScholar", url: "https://www.researchgate.net/your-profile-link"}
 
