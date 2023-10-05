@@ -12,6 +12,8 @@ title: "Publications"
 Wu Y., Li P., Yan B., **Li X.** et al. A Salt-Induced Tackifying Polymer for Enhancing Oil Recovery in High-Salt Reservoirs: Synthesis, Evaluation, and Mechanism. *Green Energy and Environment*, In review (2023).
 
 ## Published ##
+**Li X.** Water, Salt, Organics, and Minerals: Improved Understanding of Aerosol Microphysics From a Nanoscale Basis, *Princeton University* (2023).
+
 **Li X.**, Bourg I.C. Phase state, surface tension, water activity, and accommodation coefficient of water-organic clusters near the critical size for atmospheric new particle formation. *Environmental Science and Technology* 57, 13092–13103 (2023).
 
 **Li X.**, Bourg I.C. Microphysics of liquid water in sub-10 nm ultrafine aerosol particles. *Atmospheric Chemistry and Physics* 23, 2525-2556 (2023).
