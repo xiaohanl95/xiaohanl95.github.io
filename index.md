@@ -4,10 +4,10 @@ title: "About me"
 ---
 <div class="about-me">
     <img src="{{ site.baseurl }}/images/profile.JPG" alt="Profile Image" class="profile-picture">
-    <div class="about-text">
-          <p>I am currently a <a href="https://cimes.princeton.edu/">CIMES Postdoctoral Research Associate</a> in the Atmospheric and Oceanic Sciences Program at Princeton University. I have a broad interest in <a href="https://en.wikipedia.org/wiki/Environmental_chemistry">environmental chemistry</a>, <a href="https://en.wikipedia.org/wiki/Geochemistry">geochemistry</a>, and <a href="https://en.wikipedia.org/wiki/Physical_chemistry">physical chemistry</a>. Specifically, I focus on interfacial phenomena. I'm profoundly interested in understanding how these foundational sciences affect the environment, energy, and our climate. Currently, my research aims to bridge the gap between the nanoscale foundation of aerosol microphysics and its representation in GFDL climate models.</p>
-    </div>
+     <p>I am currently a <a href="https://cimes.princeton.edu/">CIMES Postdoctoral Research Associate</a> in the Atmospheric and Oceanic Sciences Program at Princeton University. I have a broad interest in <a href="https://en.wikipedia.org/wiki/Environmental_chemistry">environmental chemistry</a>, <a href="https://en.wikipedia.org/wiki/Geochemistry">geochemistry</a>, and <a href="https://en.wikipedia.org/wiki/Physical_chemistry">physical chemistry</a>. Specifically, I focus on interfacial phenomena. I'm profoundly interested in understanding how these foundational sciences affect the environment, energy, and our climate. Currently, my research aims to bridge the gap between the nanoscale foundation of aerosol microphysics and its representation in GFDL climate models.</p>
+    <div style="clear:both;"></div>
 </div>
+
 
 
 
