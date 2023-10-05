@@ -21,7 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: "Research"}
   - {file: "CV_XL_web.pdf", title: "CV", url: "https://xiaohanl95.github.io/CV_XL_web.pdf"}
   - {file: "pub.md", title: "Publications"}
-  - {title: "ResearchGate", url: "https://www.researchgate.net/profile/Xiaohan-Li-15"}
+  #- {title: "ResearchGate", url: "https://www.researchgate.net/profile/Xiaohan-Li-15"}
   - {title: "GoogleScholar", url: "https://scholar.google.com/citations?user=cPR5Lq4AAAAJ&hl=en&oi=ao"}
 
 
