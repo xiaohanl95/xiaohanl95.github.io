@@ -8,6 +8,7 @@ title: "Publications"
 
 ## In review ##
 **Li X.**, Bourg I.C. Hygroscopic growth of adsorbed water films on smectite clay particles. *Environmental Science and Technology*, in review (2023).
+
 Wu Y., Li P., Yan B., **Li X.** et al. A Salt-Induced Tackifying Polymer for Enhancing Oil Recovery in High-Salt Reservoirs: Synthesis, Evaluation, and Mechanism. *Green Energy and Environment*, In review (2023).
 
 ## Published ##
