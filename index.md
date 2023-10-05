@@ -2,7 +2,6 @@
 layout: page
 title: "About me"
 ---
-<img src="{{ site.baseurl }}/images/profile.JPG" alt="Profile Image" class="profile-picture">
 I am currently a [CIMES Postdoctoral Research Associate](https://cimes.princeton.edu/) in the Atmospheric and Oceanic Sciences Program at Princeton University. I have a broad interest in [environmental chemistry](https://en.wikipedia.org/wiki/Environmental_chemistry), [geochemistry](https://en.wikipedia.org/wiki/Geochemistry), and [physical chemistry](https://en.wikipedia.org/wiki/Physical_chemistry). Specifically, I focus on interfacial phenomena. I'm profoundly interested in understanding how these foundational sciences affect the environment, energy, and our climate. Currently, my research aims to bridge the gap between the nanoscale foundation of aerosol microphysics and its representation in GFDL climate models.
 
 
