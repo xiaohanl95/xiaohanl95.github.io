@@ -13,7 +13,7 @@ title: "About me"
 
 
 ## Academic appointment & experience
-- Postdoc Research Associate, AOS Program, Princeton University, 2023. Host: [Paul Ginoux](https://www.gfdl.noaa.gov/pag-homepage/) 
+- CIMES Postdoc Research Associate, Princeton University/GFDL, 2023. Host: [Paul Ginoux](https://www.gfdl.noaa.gov/pag-homepage/) 
 - Visiting Scholar, Atmospheric Sciences, Texas A&M, 2023. Host: [Yue Zhang](https://atmo.tamu.edu/people/profiles/faculty/zhangyue.html) 
 
 ## Education
