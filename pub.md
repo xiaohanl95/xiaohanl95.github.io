@@ -4,6 +4,8 @@ title: "Publications"
 ---
 
 ## In preparation ##
+**Li	X.**, Zhang	S.,	Li	P.,	Jiang	Z.,	Zhang	D.	Reassessing	CO2 storage	capacity	based	on	a	modified physisorption model	for	surface	area	and	porosity determination. *Energy and Environmental Science*,	in	preparation	(2023).
+
 **Li X.**, Zhang Y. et al. Quantifying the effects of phase state on the deposition ice nucleation abilities of organic aerosols. *Environmental Science & Technology*, in preparation (2023).
 
 ## In review ##
