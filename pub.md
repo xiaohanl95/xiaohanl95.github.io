@@ -12,7 +12,7 @@ title: "Publications"
 **Li X.**, Bourg I.C. Hygroscopic growth of adsorbed water films on smectite clay particles. *Environmental Science & Technology*, in review (2023).
 
 ## Published ##
-Wu Y., Li P., Yan B., **Li X.** et al. A Salt-Induced Tackifying Polymer for Enhancing Oil Recovery in High-Salt Reservoirs: Synthesis, Evaluation, and Mechanism. *Green Energy & Environment*, accepted (2023).
+Wu Y., Li P., Yan B., **Li X.** et al. A Salt-Induced Tackifying Polymer for Enhancing Oil Recovery in High-Salt Reservoirs: Synthesis, Evaluation, and Mechanism. *Green Energy & Environment*, [in press](https://www.sciencedirect.com/user/identity/landing?code=i6p0b7eZOxlPe3Ragaz54O9DjNQfF9FWvfwH7YfM&state=retryCounter%3D0%26csrfToken%3De8388fcc-a94f-4685-b307-708100fb8f68%26idpPolicy%3Durn%253Acom%253Aelsevier%253Aidp%253Apolicy%253Aproduct%253Ainst_assoc%26returnUrl%3D%252Fscience%252Farticle%252Fpii%252FS2468025723001334%253Fvia%25253Dihub%26prompt%3Dnone%26cid%3Darp-7c0531ef-f0e1-4dbe-80da-b91cc80f014c) (2023).
 
 **Li X.** Water, salt, organics, and minerals: improved understanding of aerosol microphysics from a nanoscale basis. *Princeton University* (2023). [Link](https://www.proquest.com/docview/2871492689?pq-origsite=gscholar&fromopenview=true)
 
