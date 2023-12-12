@@ -9,9 +9,11 @@ title: "Publications"
 **Li X.**, Zhang Y. et al. Quantifying the effects of phase state on the deposition ice nucleation abilities of organic aerosols. *Environmental Science & Technology*, in preparation (2023).
 
 ## In review ##
-**Li X.**, Bourg I.C. Hygroscopic growth of adsorbed water films on smectite clay particles. *Environmental Science & Technology*, in review (2023).
 
 ## Published ##
+
+**Li X.**, Bourg I.C. Hygroscopic growth of adsorbed water films on smectite clay particles. *Environmental Science & Technology*, accepted (2023).
+
 Wu Y., Li P., Yan B., **Li X.** et al. A Salt-Induced Tackifying Polymer for Enhancing Oil Recovery in High-Salt Reservoirs: Synthesis, Evaluation, and Mechanism. *Green Energy & Environment*, [in press](https://doi.org/10.1016/j.gee.2023.10.006) (2023).
 
 **Li X.** Water, salt, organics, and minerals: improved understanding of aerosol microphysics from a nanoscale basis. [*Princeton University*](https://www.proquest.com/docview/2871492689?pq-origsite=gscholar&fromopenview=true) (2023).
