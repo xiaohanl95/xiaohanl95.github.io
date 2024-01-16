@@ -4,7 +4,7 @@ title: "Publications"
 ---
 
 
-## Publications ##
+%## Publications ##
 
 **Li X.**, Bourg I.C. Hygroscopic growth of adsorbed water films on smectite clay particles. *Environmental Science & Technology*, 58(2), [1109-1118](https://pubs.acs.org/doi/10.1021/acs.est.3c08253) (2024).
 
