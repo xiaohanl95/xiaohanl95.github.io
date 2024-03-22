@@ -14,7 +14,6 @@ title: "About me"
 
 ## Academic appointment & experience
 - CIMES Postdoc Research Associate, Princeton University/GFDL, 2023-Present. Host: [Paul Ginoux](https://www.gfdl.noaa.gov/pag-homepage/) 
-- Visiting Scholar, Atmospheric Sciences, Texas A&M, 2023. Host: [Yue Zhang](https://atmo.tamu.edu/people/profiles/faculty/zhangyue.html) 
 
 ## Education
 - Ph.D., Civil and Environmental Engineering, Princeton University, 2018-2023. Advisor: [Ian C. Bourg](https://cee.princeton.edu/people/ian-bourg)
