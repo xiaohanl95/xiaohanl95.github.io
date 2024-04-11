@@ -13,7 +13,7 @@ title: "About me"
 
 
 ## Academic appointment & experience
-- CIMES Postdoc Research Associate, Princeton University/GFDL, 2023-Present. Host: [Paul Ginoux]([https://www.gfdl.noaa.gov/pag-homepage/](https://scholar.google.com/citations?user=xqw4ZbsAAAAJ&hl=en) 
+- CIMES Postdoc Research Associate, Princeton University/GFDL, 2023-Present. Host: [Paul Ginoux](https://scholar.google.com/citations?user=xqw4ZbsAAAAJ&hl=en) 
 
 ## Education
 - Ph.D., Civil and Environmental Engineering, Princeton University, 2018-2023. Advisor: [Ian C. Bourg](https://cee.princeton.edu/people/ian-bourg)
