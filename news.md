@@ -11,8 +11,8 @@ title: "News"
 <font color="gray"><strong>I am dedicated to fostering a more diverse, equitable, and inclusive environment within our community. I anticipate collaborating with the committee to advance these crucial values.</strong></font>
 
 ### [2024/04] -  Spring Into Science Event, Science Outreach Program
-- Alongside Matt, Arman, Fei, and Stephan, we demonstrated the impact of the Coriolis force on Earth system through an experiment with a rotation tank at the Spring Into Science outreach event for 4th to 10th students in the New Jersey community. This experience has been rewarding, prompting me to reflect more deeply on inclusivity within thecommunity.
+Our team demonstrated the impact of the Coriolis force on the Earth system through an engaging experiment with a rotating tank at the Spring Into Science outreach event. This event, designed for 4th to 10th-grade students in the New Jersey community, aimed to make science more accessible and engaging for young learners.
 
 ### [2024/02] - Diversity, Equity, and Inclusion (DEI) Committee  
-- I am excited to serve as the Postdoc representative on the DEI committee for the Atmospheric and Oceanic Sciences Program at Princeton University.
+I am excited to serve as the Postdoc representative on the DEI committee for the Atmospheric and Oceanic Sciences Program at Princeton University.
 
