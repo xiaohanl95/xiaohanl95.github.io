@@ -5,7 +5,7 @@
 
 ## Service and Outreach
 ### [04/2024] -  Spring Into Science Event, Science Outreach Program
-- Alongside Matt, Arman, Fei, and Stephan, we demonstrated the impact of the Coriolis force on Earth's system through an experiment with a rotation tank at the Spring Into Science outreach event for primary to high school students in the New Jersey community. This experience has been rewarding, prompting me to reflect more deeply on inclusivity within our community.
+- Alongside Matt, Arman, Fei, and Stephan, we demonstrated the impact of the Coriolis force on Earth system through an experiment with a rotation tank at the Spring Into Science outreach event for 4th to 10th students in the New Jersey community. This experience has been rewarding, prompting me to reflect more deeply on inclusivity within thecommunity.
 
 ### [02/2024] - Diversity, Equity, and Inclusion (DEI) Committee  
 - I am excited to serve as the Postdoc representative on the DEI committee for the Atmospheric and Oceanic Sciences Program at Princeton University. I am dedicated to fostering a more diverse, equitable, and inclusive environment within our community. I eagerly anticipate collaborating with the committee to advance these crucial values.
