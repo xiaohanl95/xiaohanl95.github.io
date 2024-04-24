@@ -3,7 +3,7 @@ layout: page
 title: "News"
 ---
 
-## Academic
+## Academic Activities
 ### [2024/04] C. Ellen Gonter Award, American Chemistry Society (ACS)
 - I am honored to receive the 2023 ACS Division of Environmental Chemistry C. Ellen Gonter Award. I will receive a monetary reward and give an invited talk at the Fall 2024 meeting of the ACS in Denver.
 
