@@ -4,12 +4,10 @@ title: "News"
 ---
 
 ## Academic
----
 ### [2024/04] C. Ellen Gonter Award, American Chemistry Society
 - I am honored to receive the 2023 American Chemical Society (ACS) Division of Environmental Chemistry C. Ellen Gonter Award. This prestigious award is presented to graduate students at U.S. and international universities who submit the highest quality research papers. It is the highest honor granted by the Division of Environmental Chemistry for students. I will receive a monetary reward and give an invited talk at the Fall 2024 meeting of the ACS in Denver.
 
 ## Service and Outreach
----
 ### [2024/04] -  Spring Into Science Event, Science Outreach Program
 - Alongside Matt, Arman, Fei, and Stephan, we demonstrated the impact of the Coriolis force on Earth system through an experiment with a rotation tank at the Spring Into Science outreach event for 4th to 10th students in the New Jersey community. This experience has been rewarding, prompting me to reflect more deeply on inclusivity within thecommunity.
 
