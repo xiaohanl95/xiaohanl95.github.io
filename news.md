@@ -1,4 +1,4 @@
-
+#
 ## Academic
 ### [04/2024] C. Ellen Gonter Award, American Chemistry Society
 - I am honored to receive the 2023 American Chemical Society (ACS) Division of Environmental Chemistry C. Ellen Gonter Award. This prestigious award is presented to graduate students at U.S. and international universities who submit the highest quality research papers. It is the highest honor granted by the Division of Environmental Chemistry for students. I will receive a monetary reward and give an invited talk at the Fall 2024 meeting of the ACS in Denver.
