@@ -1,3 +1,7 @@
+---
+layout: page
+title: "News"
+---
 
 ## Academic
 ### [04/2024] C. Ellen Gonter Award, American Chemistry Society
