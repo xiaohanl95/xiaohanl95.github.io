@@ -6,7 +6,7 @@ title: ""
 ## Academic Activities
 <span style="color: gray;"><strong>*I pursue collaborative research opportunities to explore innovative solutions to complex environmental challenges, fostering interdisciplinary dialogue and encouraging a supportive atmosphere for diverse perspectives.*</strong> </span>
 
-**2024/04 C. Ellen Gonter Award, American Chemistry Society (ACS).** I am honored to receive the 2023 ACS Division of Environmental Chemistry C. Ellen Gonter Award. I will receive a monetary reward and give an invited talk at the Fall 2024 meeting of the ACS in Denver.
+**2024/04 C. Ellen Gonter Award, American Chemistry Society (ACS).** I am honored to receive the 2023 ACS Division of Environmental Chemistry C. Ellen Gonter Award. This prestigious award is presented to graduate students at U.S. and international universities who submit the highest quality research papers. It is the highest honor granted by the Division of Environmental Chemistry for students. I will receive a monetary reward and give an invited talk at the Fall 2024 meeting of the ACS in Denver.
 
 ## Service and Outreach
 <span style="color: gray;"><strong>*I pursue fostering a more diverse, equitable, and inclusive environment within our community. I anticipate collaborating with the committee to advance these crucial values.*</strong> </span>
