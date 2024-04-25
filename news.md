@@ -19,5 +19,5 @@ title: "2024"
 
 **2024-04 Spring Into Science Event, Science Outreach Program.** Our team demonstrated the impact of the Coriolis force on the Earth system through an engaging experiment with a rotating tank for 4th to 10th-grade students in the New Jersey community, aiming to make science more accessible for young learners.
 
-**2024-02 Diversity, Equity, and Inclusion (DEI) Committee.** I am excited to serve as the Postdoc representative on the DEI committee for the Atmospheric and Oceanic Sciences Program at Princeton University.
+**2024-Present Diversity, Equity, and Inclusion (DEI) Committee.** I am excited to serve as the Postdoc representative on the DEI committee for the Atmospheric and Oceanic Sciences Program at Princeton University.
 
