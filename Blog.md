@@ -9,7 +9,7 @@ title: "Blog"
 Upcoming blog: 04-28-2024 **SPC/E forcefield on nanodroplet characterization**
 
 # Aerosol Microphysics and Atmospheric Modeling
-
+> Aerosol microphysics encompasses the lifecycle of aerosols, from formation to emission, evolution, activation, and removal. It is crucial for assessing aerosol-radiation (ARI) and aerosol-cloud (ACI) interactions. My current prioritized project is implementing a new aerosol microphysics scheme in the GFDL atmospheric model. In this blog section, I will share my personal experiences and knowledge of aerosol representation in models; discuss the limitations, current state of the art, and challenges in global aerosol modeling; and talk about tuning and validation with satellite or ground-based observations.
 
 Upcoming blog: 05-05-2024 **Aerosol representation in atmospheric models**
 
