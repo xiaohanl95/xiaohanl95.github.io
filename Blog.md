@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Blog"
+title: "Blog (Updating 1 blog per week)"
 ---
 
 # Molecular Dynamics Simulations of Nanoscale Interfaces
