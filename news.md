@@ -12,6 +12,8 @@ title: "2024"
 
 **2024-03 ACS Spring Meeting.** I presented at the 2024 ACS Spring meeting in New Orleans, discussing the hygroscopic growth of adsorbed water films on smectite clay nano-particles.
 
+**2024-03 Aerosol/cloud microphysics roundtable.** I am excited to present my initial climate modeling work at the GFDL Aerosol/Cloud Microphysics Roundtable. I discussed our ongoing effort to implement aerosol microphysics in the GFDL atmospheric model. This work is in collaboration with my esteemed colleagues Dr. Paul Ginoux and Dr. Fabien Paulot.
+
 # DEI Activities
 <span style="color: gray;"><strong>*I pursue fostering a more diverse, equitable, and inclusive environment within our community. I anticipate collaborating with the committee to advance these crucial values.*</strong> </span>
 
