@@ -16,4 +16,4 @@ Upcoming blog: 05-05-2024 **Aerosol representation in atmospheric models**
 # Bridging Nanoscale Knowledge with Large-Scale Impacts
 > At the AGU 2019 conference, a colleague working on climate models stopped by my poster and suggested that climate modelers don't care about the nanoscale and my research seem useless to them. This was disappointing at first, but it sparked a question in my mind throughout my research journey: **how can nanoscale findings be made more accessible and applicable for large-scale applications?** Fortunately, I found my own way to approach this challenge through implementing aerosol microphysics in climate models. I would like to share some of my personal thoughts and experiences on dealing with this mindset, for younger researchers who may also struggle with similar issues.
 
-Upcoming blog: 05-12-2024 **Personal suggestions for expressing nanoscale research to general audience across disciplines**
+Upcoming blog: 05-12-2024 **Personal notes for expressing nanoscale research to general audience across disciplines**
