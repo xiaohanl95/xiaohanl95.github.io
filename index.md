@@ -17,8 +17,8 @@ title: "About me"
 
 ## Education
 - Ph.D., Civil and Environmental Engineering, Princeton University, 2018-2023. Advisor: [Ian C. Bourg](https://cee.princeton.edu/people/ian-bourg)
-- B.S., Energy and Resources Engineering, Peking University, 2014-2018. Research Advisor: [Dongxiao Zhang](https://scholar.google.com/citations?user=HJdIx6QAAAAJ&hl=en)
-- B.S., Economics, Peking University, 2015-2018
+- B.S., Energy and Resources Engineering, Peking University, 2014-2018.
+- B.S., Economics, Peking University (minor), 2015-2018.
 
 
 
