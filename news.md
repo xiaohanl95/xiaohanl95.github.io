@@ -8,7 +8,7 @@ title: "2024"
 
 **2024-08 ACS Fall Meeting.** I will give an invited talk at the 2024 ACS Fall meeting in Denver, presenting how molecular dynamics simulations can bridge knowledge gaps regarding water film energetics on clay minerals across various relative humidity conditions, from low to saturation.
 
-**2024-04 C. Ellen Gonter Award.** I am honored to receive the 2023 American Chemistry Society Division of Environmental Chemistry C. Ellen Gonter Award. This prestigious award is presented to graduate students at U.S. and international universities who submit the highest quality research papers. It is the highest honor granted by the Division of Environmental Chemistry for students. 
+**2024-04 C. Ellen Gonter Award, American Chemistry Society.** I am honored to receive the 2023 American Chemistry Society Division of Environmental Chemistry C. Ellen Gonter Award. This prestigious award is presented to graduate students at U.S. and international universities who submit the highest quality research papers. It is the highest honor granted by the Division of Environmental Chemistry for students. 
 
 **2024-03 ACS Spring Meeting.** I presented at the 2024 ACS Spring meeting in New Orleans, discussing the hygroscopic growth of adsorbed water films on smectite clay nano-particles.
 
