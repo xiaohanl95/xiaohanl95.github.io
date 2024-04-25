@@ -24,9 +24,9 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "CV_XL_web.pdf", title: "CV", url: "https://xiaohanl95.github.io/CV_XL_web.pdf"}
   - {file: "pub.md", title: "Research"}
   - {file: "news.md", title: "Activities"}
-  #- {file: "Blog.md", title: "Blog"}
+  - {file: "Blog.md", title: "Blog"}
   #- {title: "ResearchGate", url: "https://www.researchgate.net/profile/Xiaohan-Li-15"}
-  - {title: "GoogleScholar", url: "https://scholar.google.com/citations?user=cPR5Lq4AAAAJ&hl=en&oi=ao"}
+  #- {title: "GoogleScholar", url: "https://scholar.google.com/citations?user=cPR5Lq4AAAAJ&hl=en&oi=ao"}
 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
