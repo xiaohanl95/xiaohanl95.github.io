@@ -14,7 +14,7 @@ title: "2024"
 
 **2024-03 Aerosol/Cloud Microphysics Roundtable.** I am very excited to present my first climate modeling work at the GFDL Aerosol/Cloud Microphysics Roundtable. I discussed our ongoing effort to implement aerosol microphysics in the GFDL atmospheric model. This work is in collaboration with my super-supportive mentors, Dr. Paul Ginoux and Dr. Fabien Paulot.
 
-# DEI Activities
+# Service and Outreach
 > <span style="color: gray;"><strong>*I pursue fostering a more diverse, equitable, and inclusive environment within our community. I anticipate collaborating with the committee to advance these crucial values.*</strong> </span>
 
 **2024-04 Spring Into Science Event, Science Outreach Program.** Our team demonstrated the impact of the Coriolis force on the Earth system through an engaging experiment with a rotating tank for 4th to 10th-grade students in the New Jersey community, aiming to make science more accessible for young learners.
