@@ -6,6 +6,8 @@ lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
+minimal_mistakes_skin    : "dark"
+
 # Layout
 show_social: true 
 show_excerpts: false      # show article excerpts on the home page
