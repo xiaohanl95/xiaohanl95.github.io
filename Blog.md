@@ -1,7 +1,8 @@
 ---
 layout: page
-title: "Blog (Updating 1 blog per week)"
+title: "Blog"
 ---
+I aim to write one blog per week.
 
 # Molecular Dynamics Simulations of Nanoscale Interfaces
 > During my PhD, I was frequently asked by experimentalists about the trustworthiness of molecular dynamics (MD) simulations in characterizing the real physics or chemistry, considering their limitations. In this section, I would like to share my views on the limitations of MD, the extent to which we should value MD results, current research status and technical issues related to the characterization of nanodroplets and more general interfaces, for both experimentalists and MD simulation researchers.
