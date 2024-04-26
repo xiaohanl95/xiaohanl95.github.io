@@ -12,7 +12,7 @@ title: "About me"
 </div>
 
 
-## Academic appointment & experience
+## Academic Appointment
 - CIMES Postdoc Research Associate, Princeton University/GFDL, 2023-Present. Host: [Paul Ginoux](https://scholar.google.com/citations?user=xqw4ZbsAAAAJ&hl=en) 
 
 ## Education
