@@ -8,6 +8,8 @@ title: "2024"
 
 **2024-08 ACS Fall Meeting.** I will give an invited talk at the 2024 ACS Fall meeting in Denver, presenting how molecular dynamics simulations can bridge knowledge gaps regarding water film energetics on clay minerals across various relative humidity conditions, from low to saturation.
 
+**2024-06 AGU Session Proposal.** I am thrilled to announce that our AGU24 session proposal has been accepted! The session, titled "[A119. Recent Advances in Aerosol Representation and its Impacts on Climate, Air Quality, and Health](https://agu.confex.com/agu/agu24/prelim.cgi/Session/226627)," welcomes contributions in modeling, observation, and theoretical studies focusing on aerosol microphysics, aerosol processes, and their impacts. We are honored to have Prof. **Randall Martin** (Washington University in St. Louis) and Dr. **Cenlin He** (NCAR) as our invited speakers. Please check and submit your abstracts to our session [here](https://agu.confex.com/agu/agu24/prelim.cgi/Session/226627).
+
 **2024-04 C. Ellen Gonter Award.** I am honored to receive the 2023 American Chemistry Society Division of Environmental Chemistry C. Ellen Gonter Award. This prestigious award is presented to graduate students at U.S. and international universities who submit the highest quality research papers. It is the highest honor granted by the Division of Environmental Chemistry for students. 
 
 **2024-03 ACS Spring Meeting.** I presented at the 2024 ACS Spring meeting in New Orleans, discussing the hygroscopic growth of adsorbed water films on smectite clay nano-particles.
