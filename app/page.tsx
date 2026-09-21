@@ -7,7 +7,14 @@ export default function Home() {
     <section className="hero wrap">
         <div className="eyebrow"><span className="status-dot" /> Aerosol microphysics · Clouds · Climate</div>
         <div className="hero-heading"><h1>Small particles.<br /><span>Planetary consequences.</span></h1><p>I study aerosol microphysics to understand how tiny particles shape clouds, air quality, and a changing climate.</p></div>
-        <div className="hero-bottom"><p>Xiaohan (Sally) Li<br /><span>Research Staff Scientist · The University of Chicago</span></p><a className="text-link" href="/research">Explore my research <span aria-hidden="true">→</span></a></div>
+        <div className="hero-bottom">
+          <p>Xiaohan (Sally) Li<br /><span>Research Staff Scientist · The University of Chicago</span></p>
+          <nav className="hero-links" aria-label="Explore my work and background">
+            <a className="text-link" href="/research">Explore my research <span aria-hidden="true">→</span></a>
+            <a className="text-link" href="/publications">Publications <span aria-hidden="true">→</span></a>
+            <a className="text-link" href="/about">About me <span aria-hidden="true">→</span></a>
+          </nav>
+        </div>
       </section>
       <figure className="earth-banner">
         <img src="/images/earth.webp" alt="Ocean and clouds beneath the thin blue atmospheric limb of Earth, photographed from the International Space Station" width="2200" height="1446" fetchPriority="high" />
