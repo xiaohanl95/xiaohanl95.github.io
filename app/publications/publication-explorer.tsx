@@ -7,6 +7,11 @@ import styles from './publications.module.css';
 type TopicFilter = 'all' | Topic;
 
 const topics: Record<TopicFilter, { label: string; question: string; caption: string }> = {
+  other: {
+    label: 'Other research',
+    question: 'How do fluids and materials interact in porous media?',
+    caption: 'Collaborative work on adsorption and polymer behavior in subsurface systems.',
+  },
   all: {
     label: 'All topics',
     question: 'How do small particles shape our atmosphere?',
@@ -34,9 +39,10 @@ const topics: Record<TopicFilter, { label: string; question: string; caption: st
   },
 };
 
-const topicOrder: TopicFilter[] = ['all', 'molecular', 'cloud', 'models', 'climate'];
+const topicOrder: TopicFilter[] = ['all', 'molecular', 'cloud', 'models', 'climate', 'other'];
 const groups: { status: PublicationStatus; label: string }[] = [
   { status: 'published', label: 'Published' },
+  { status: 'accepted', label: 'Accepted' },
   { status: 'review', label: 'Under review' },
   { status: 'preparation', label: 'In preparation' },
 ];
@@ -59,7 +65,8 @@ export default function PublicationExplorer() {
       <div className={styles.pageHead}>
         <div>
           <h1 id="publications-title">Publications</h1>
-          <p>Explore selected papers and manuscripts by topic.</p>
+          <p>Papers and manuscripts from my November 20, 2026 CV, organized by topic.</p>
+          <p>* Corresponding author · † Student mentee</p>
         </div>
         <a className={styles.fullRecord} href="https://scholar.google.com/citations?user=cPR5Lq4AAAAJ&hl=en" target="_blank" rel="noopener noreferrer">
           Full record · Google Scholar <span aria-hidden="true">↗</span>
@@ -94,7 +101,7 @@ export default function PublicationExplorer() {
                 <h3 className={styles.groupTitle} id={`publications-${group.status}`}>{group.label}</h3>
                 <ul>
                   {papers.map(paper => (
-                    <li key={paper.id} className={styles.paper} data-paper-id={paper.id}>
+                    <li key={paper.id} id={paper.id} className={styles.paper} data-paper-id={paper.id}>
                       <h4>
                         {paper.url
                           ? <a href={paper.url} target="_blank" rel="noopener noreferrer">{paper.title}</a>

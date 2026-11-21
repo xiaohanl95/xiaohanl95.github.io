@@ -17,4 +17,6 @@ for (const route of routes) {
   if (route) await writeFile(input, html);
 }
 await writeFile(path.join(output, '.nojekyll'), '');
+// Keep the original Jekyll CV URL working for bookmarks and older links.
+await cp(path.join(output, 'files/Xiaohan-Li-CV.pdf'), path.join(output, 'CV_XL_web.pdf'));
 console.log('GitHub Pages export ready: all seven routes, assets, fonts, and CV.');

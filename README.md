@@ -28,9 +28,9 @@ pnpm dev
 - Shared navigation/footer: `app/site-header.tsx`, `app/site-footer.tsx`
 - Styles: `app/globals.css`
 - CV PDF: `public/files/Xiaohan-Li-CV.pdf`
-- Six CV preview images: `public/files/cv-preview/`
+- Seven CV preview images: `public/files/cv-preview/`
 
-When replacing the CV, replace both the PDF and its rendered preview pages, and update the page count in the About page if needed.
+When replacing the CV, replace both the PDF and its rendered preview pages, and update the CV page count in the About page if needed. The public PDF and previews omit reference contact details; retain the unmodified source privately. The current content follows the CV updated November 20, 2026.
 
 ## Build
 
@@ -39,6 +39,6 @@ pnpm run check
 pnpm run build
 ```
 
-The publishable website is **dist/client/**. The final build step creates directory URLs such as `/research/` and `/about/`, preserves direct PDF access at `/cv/`, sets canonical URLs, and includes `.nojekyll` for static hosting. `dist/server` is only a temporary build output and is never deployed.
+The publishable website is **dist/client/**. The final build step creates directory URLs such as `/research/` and `/about/`, preserves direct PDF access at `/cv/` and the legacy `/CV_XL_web.pdf` URL, sets canonical URLs, and includes `.nojekyll` for static hosting. `dist/server` is only a temporary build output and is never deployed.
 
 Image source credits and reuse licenses are preserved in the website footer.
