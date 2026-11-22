@@ -55,14 +55,14 @@ html{scroll-padding-top:120px}
 @media(max-width:650px){html{scroll-padding-top:155px}.site-header{padding-top:16px;padding-bottom:12px;gap:11px}.site-header nav{gap:8px;flex-wrap:wrap}.site-header nav a{font-size:14px;padding:8px 0}.page-title{font-size:33px}.research-page .intro{padding-top:48px}}
 
 /* Research imagery and links to molecular-scale publications. */
-.research-atmosphere{position:relative;isolation:isolate;min-height:480px;background:#071c2c;color:#fff;overflow:hidden}
+.research-atmosphere{position:relative;isolation:isolate;min-height:360px;background:#071c2c;color:#fff;overflow:hidden}
 .research-atmosphere>img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:50% 27%;z-index:-2}
 .research-atmosphere:after{content:'';position:absolute;inset:0;background:linear-gradient(90deg,#061827e8 0%,#06182795 45%,#06182715 100%);z-index:-1}
-.atmosphere-copy{padding-top:65px;padding-bottom:74px;position:relative;width:100%}
+.atmosphere-copy{padding-top:30px;padding-bottom:46px;position:relative;width:100%}
 .atmosphere-copy>.eyebrow{color:#d0e4ef;font-size:13px;letter-spacing:.11em}
-.atmosphere-copy h1{font-size:clamp(45px,5.4vw,72px);line-height:1.08;margin:24px 0;max-width:700px}
+.atmosphere-copy h1{font-size:clamp(38px,4.4vw,56px);line-height:1.08;margin:16px 0;max-width:700px}
 .atmosphere-copy>p:not(.eyebrow){font-size:19px;line-height:1.6;color:#d6e7f1}
-.atmosphere-scales{display:flex;flex-wrap:wrap;gap:12px 16px;margin-top:30px;color:#e0ecf2;font-size:14px;align-items:center}
+.atmosphere-scales{display:flex;flex-wrap:wrap;gap:12px 16px;margin-top:20px;color:#e0ecf2;font-size:14px;align-items:center}
 .atmosphere-scales>[aria-hidden]{color:#8eb5cd}
 .atmosphere-credit{position:absolute;bottom:15px;right:3%;font-size:12px;color:#fff;padding:7px 10px;background:#071c2caa}
 .inline-paper-link{color:#155876;font-weight:500;text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:4px;text-decoration-color:#86abbf}
@@ -76,7 +76,7 @@ html{scroll-padding-top:120px}
 .cloud-visual figcaption a{text-decoration:underline;text-underline-offset:3px}
 .cloud-feature .intervention-copy{align-self:start}
 .cloud-feature .finding p{max-width:none}
-@media(max-width:650px){.research-atmosphere{min-height:440px}.atmosphere-copy{padding-top:42px;padding-bottom:73px}.atmosphere-copy>.eyebrow{font-size:12px;max-width:270px;line-height:1.8}.atmosphere-copy h1{font-size:47px;margin-top:22px}.atmosphere-copy>p:not(.eyebrow){font-size:17px}.atmosphere-credit{font-size:11px;right:3%;left:3%;text-align:center}.atmosphere-scales{gap:10px;font-size:13px}.cloud-section-heading{grid-template-columns:1fr;gap:20px}.cloud-feature{row-gap:28px}.cloud-section-heading .intervention-subtitle{max-width:none}.cloud-visual{max-width:430px;margin:auto}.cloud-visual figcaption{font-size:12px}}
+@media(max-width:650px){.research-atmosphere{min-height:340px}.atmosphere-copy{padding-top:24px;padding-bottom:60px}.atmosphere-copy>.eyebrow{font-size:12px;max-width:270px;line-height:1.8}.atmosphere-copy h1{font-size:clamp(34px,10vw,40px)}.atmosphere-copy>p:not(.eyebrow){font-size:17px}.atmosphere-credit{font-size:11px;right:3%;left:3%;text-align:center}.atmosphere-scales{gap:10px;font-size:13px}.cloud-section-heading{grid-template-columns:1fr;gap:20px}.cloud-feature{row-gap:28px}.cloud-section-heading .intervention-subtitle{max-width:none}.cloud-visual{max-width:430px;margin:auto}.cloud-visual figcaption{font-size:12px}}
 
 /* Embedded curriculum vitae. */
 .cv-links{display:flex;align-items:flex-start;flex-direction:column;gap:18px;margin-top:25px}
