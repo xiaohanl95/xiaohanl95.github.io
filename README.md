@@ -30,7 +30,7 @@ pnpm dev
 - CV PDF: `public/files/Xiaohan-Li-CV.pdf`
 - Seven CV preview images: `public/files/cv-preview/`
 
-When replacing the CV, replace both the PDF and its rendered preview pages, and update the CV page count in the About page if needed. The public PDF and previews omit reference contact details; retain the unmodified source privately. The current content follows the CV updated November 20, 2026.
+When replacing the CV, replace both the PDF and its rendered preview pages, and update the CV page count in the About page if needed. The public PDF and previews include all five references with their names, titles, and affiliations, while omitting their email addresses; retain the unmodified source privately. The current content follows the CV updated November 20, 2026.
 
 ## Build
 
