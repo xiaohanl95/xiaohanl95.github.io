@@ -93,7 +93,10 @@ export default function PublicationExplorer() {
         </aside>
         <div className={styles.paperList}>
           {groups.map(group => {
-            const papers = matchingPapers.filter(paper => paper.status === group.status);
+            // Put first-authored papers first, preserving the existing order within each group.
+            const papers = matchingPapers
+              .filter(paper => paper.status === group.status)
+              .sort((a, b) => Number(b.authors.startsWith('Li, X.')) - Number(a.authors.startsWith('Li, X.')));
             if (papers.length === 0) return null;
             return (
               <section key={group.status} className={styles.statusGroup}
